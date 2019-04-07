@@ -13,9 +13,11 @@ If you successfully ake it to the water a message will appear saying you have ma
 Additionally, each time you load the page you will be assigned a random character.
 
 ## Depedencies used
-#Javadscript ES6
-#HTML
-#Images folder
+Javadscript ES6
+
+HTML
+
+Images folder
 
 
 selecting random number from a set 
